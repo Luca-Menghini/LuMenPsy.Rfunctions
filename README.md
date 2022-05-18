@@ -3,6 +3,10 @@ This repository includes a set of R functions for self-report, physiological, an
 
 ## R functions
 
+### Data management
+
+- `checklist_sep` splits multiple-choice checklist variable into multiple columns.
+
 ### Descriptives
 
 - `itemsICC` computes and prints the intraclass correlation coefficient for one or more time-varying variables.
